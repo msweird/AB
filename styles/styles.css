@@ -101,7 +101,7 @@ header {
   justify-content: center;
   align-items: center;
   gap: 70px;
-  padding-top: 70px;
+  padding-top: 120px;
 }
 
 .hero-h {
@@ -115,6 +115,7 @@ header {
   text-transform: uppercase;
   max-width: 1170px;
   color: rgba(255, 255, 255, 1);
+  height: 150px;
 }
 
 .hero-p {
@@ -127,6 +128,7 @@ header {
   max-width: 1170px;
   padding-bottom: 30px;
   color: rgba(255, 255, 255, 1);
+  height: 55px;
 }
 
 .hero-button {
